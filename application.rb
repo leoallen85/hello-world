@@ -1,5 +1,5 @@
 require 'sinatra'
 
 get '/' do
-  'hello world'
+  '<h1 style="color: orange;">hello world</h1>'
 end
